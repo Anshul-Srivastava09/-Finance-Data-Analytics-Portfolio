@@ -34,11 +34,11 @@ To leverage my combined knowledge of **Finance** and **Data Analytics** to deliv
 - **Banking Compliance Tracker** – Excel-based solution for monitoring KYC/AML status.  
 
 ---
+## 📬 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Anshul-Srivastava09)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anshul-data)  
+📧 [Email Me](mailto:anshulsri09@gmail.com)
 
-## 📫 Let’s Connect  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** [Your Professional Email]  
-- **GitHub:** [Your GitHub Profile Link]  
 
 ---
 
