@@ -1,25 +1,26 @@
 # Finance & Data Analytics Portfolio  
 
 Hi 👋 I’m **Anshul Srivastava**, a B.Com Graduate & aspiring Finance + Data Analytics professional.  
-Currently pursuing **M.Com (Distance Learning)** to deepen my finance expertise while working full-time.  
+Currently pursuing M.Com (Distance Learning) to deepen my finance expertise while working full-time.  
 
 ---
 
 ## 💼 Career Objective  
 To leverage my combined knowledge of **Finance** and **Data Analytics** to deliver data-driven financial insights, support business decision-making, and contribute to organizational growth.  
+Actively building portfolio projects to showcase applied skills in real-world scenarios.
 
 ---
 
 ## 🛠 Skills & Tools  
 - **Finance & Accounting:** Financial Modeling, Tally ERP9, Investment Banking Simulation (Forage), CA Internship  
-- **Data Analytics:** Excel, SQL, Power BI, Tableau, Python, Quantitative Analysis, Intro to Machine Learning  
+- **Data Analytics:** Excel, SQL, Power BI, Tableau, Python, Quantitative Analysis, Basic Machine Learning Concepts  
 - **Banking & Compliance:** KYC, AML, Risk Management, Banking Software, Document Management  
 - **Other:** Strong Communication, Soft Skills, Interview Readiness  
 
 ---
 
 ## 📜 Certifications  
-- **Data Analytics** – CloudyML (Excel, Power BI, SQL, Tableau, Python, Quantitative Analysis, ML basics)  
+- **Data Analytics** – CloudyML (Excel, Power BI, SQL, Tableau, Python, Quantitative Analysis, Basic ML)  
 - **NISM Financial Literacy for Bharat** – NISM  
 - **Banking Operations** – Non-Engineers Institute (Communication, Compliance, KYC, AML)  
 - **Investment Banking Virtual Internship** – JP Morgan (Forage)  
@@ -28,17 +29,17 @@ To leverage my combined knowledge of **Finance** and **Data Analytics** to deliv
 ---
 
 ## 📂 Featured Projects  
-- **Finance-Data-Analytics-Portfolio** – Projects combining finance domain expertise with data analytics skills.  
-- **DCF Valuation Model** – Built during JP Morgan simulation, adjusted for competitor bids & supply chain risks.  
-- **Power BI Sales Dashboard** – Interactive dashboard showcasing key KPIs for decision-making.  
-- **Banking Compliance Tracker** – Excel-based solution for monitoring KYC/AML status.  
+- **Finance-Data-Analytics-Portfolio** – Projects combining finance domain expertise with data analytics skills  
+- **DCF Valuation Model** – Built during JP Morgan simulation, adjusted for competitor bids & supply chain risks  
+- **Power BI Sales Dashboard** – Interactive dashboard showcasing key KPIs for decision-making  
+- **Banking Compliance Tracker** – Excel-based solution for monitoring KYC/AML status  
 
 ---
+
 ## 📬 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Anshul-Srivastava09)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anshul-data)  
 📧 [Email Me](mailto:anshulsri09@gmail.com)
-
 
 ---
 
